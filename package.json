@@ -1,0 +1,14 @@
+{
+  "name": "the-braunstein-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to help run Braunstein games in your discord server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlo Echon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
